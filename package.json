@@ -1,0 +1,29 @@
+{
+  "name": "@username/number-formatter",
+  "version": "0.0.1",
+  "description": "number separator test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getvenu2884/number-formatter.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "venu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getvenu2884/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/getvenu2884/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
