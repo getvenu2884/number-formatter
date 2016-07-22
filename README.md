@@ -1,6 +1,6 @@
 # number-formatter
 
-Number Formatter
+Number Formatter test code
 =========
 
 A small library that adds commas to numbers
